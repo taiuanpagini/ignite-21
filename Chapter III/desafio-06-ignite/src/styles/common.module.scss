@@ -1,0 +1,18 @@
+.container {
+  max-width: 700px;
+  margin: 4rem auto;
+}
+
+.preview {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 5.5rem;
+  padding: 1rem;
+
+  font-size: 1.125rem;
+  color: var(--background);
+  background: var(--heading);
+
+  border-radius: 4px;
+}
